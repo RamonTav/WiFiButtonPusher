@@ -1,11 +1,12 @@
 -- Networ Boton Pusher --
 Code  Meaning
 Wxxx: Working on
-Pxxx: Pending
+Hxxx: Hold 
 Fxxx: Finished
 
-W001: Initialize project 
-H001: Document steper primitive 
+W003: Learn to use github projects https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects
+                                   https://docs.github.com/en/issues/planning-and-tracking-with-projects
+H002: Select servomotor
 
-
+F001: Initialize project 
 
