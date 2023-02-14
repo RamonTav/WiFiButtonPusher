@@ -1,0 +1,11 @@
+-- Networ Boton Pusher --
+Code  Meaning
+Wxxx: Working on
+Pxxx: Pending
+Fxxx: Finished
+
+W001: Initialize project 
+H001: Document steper primitive 
+
+
+
