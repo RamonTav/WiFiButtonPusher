@@ -1,0 +1,3 @@
+SSID = "IoT_GPIO"
+PASSWORD = "12345678"
+
